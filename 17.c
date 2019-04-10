@@ -115,7 +115,7 @@ int main()
     // soritng process according to Arrival Time
     //sort(p, p + 4, compare);
 
-    // calculating initial time when execution starts
+    // calculating initial time when the execution starts
     totaltime += p[0].AT;
 
     // calculating to terminate loop
