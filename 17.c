@@ -108,7 +108,7 @@ int main()
     printf("PNo\tAT\tBT\n");
 
     for (i = 0; i < 4; i++) {
-        printf("\t%d\t%d\t%d\n",p[i].processno, p[i].AT, p[i].BT);
+        printf("%d\t%d\t%d\n",p[i].processno, p[i].AT, p[i].BT);
     }
     printf("\n");
 
